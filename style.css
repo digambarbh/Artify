@@ -1,8 +1,10 @@
+@-ms-viewport{
+  width: device-width;
+}
 #title {
   color: rgb(42, 165, 161);
   font-size: x-large;
 }
-
 .cro {
   height: 40vw;
   width: 100vw;
@@ -39,3 +41,4 @@
   border-radius: 10px;
   border: 1px solid rgba(255, 255, 255, 0.18);
 }
+
